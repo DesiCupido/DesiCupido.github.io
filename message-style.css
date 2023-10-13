@@ -78,3 +78,9 @@ body {
         padding-left: 5%;
     }
 }
+@media(max-width: 390px){
+    .message-right img{
+        width: 763px;
+        height: 1419px;
+    }
+}
