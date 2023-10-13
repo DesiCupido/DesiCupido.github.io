@@ -32,7 +32,6 @@ body{
 .name{
     color: white;
     font-size: 25px;
-    font-family: cursive;
 
 }
 .who{
@@ -41,7 +40,6 @@ body{
     height: 25px;
     border-style: none;
     border-radius: 20px;
-    font-family: cursive;
 }
 .enter{
     color: white;
@@ -51,7 +49,6 @@ body{
     height: 25px;
     border-radius: 20px;
     font-weight: bolder;
-    font-family: cursive;
     cursor: pointer;
     transition: transform 0.3s ease-in-out;
 }
